@@ -1,0 +1,22 @@
+h1 {
+    color: rgb(255, 0, 238);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.7rem;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+p {
+    color: rgb(255, 0, 238);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.2rem;
+    text-align: justify;
+}
+
+body {
+    background-color: rgb(197, 255, 255);
+}
